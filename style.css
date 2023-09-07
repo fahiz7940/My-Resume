@@ -67,6 +67,8 @@ img {
   max-width: 100%;
   height: auto;
   vertical-align: bottom;
+  position: relative;
+    top: -330px;
 }
 input, select, textarea, button{
   font-family: 'Muli', sans-serif;
